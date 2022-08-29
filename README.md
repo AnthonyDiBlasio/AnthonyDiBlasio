@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Anthony DiBlasio!
- 🌱 I’m currently learning full stack development at UPenn LPS Coding Bootcamp
+ 🌱 I learned full stack development at UPenn LPS Coding Bootcamp
  
  📫 How to reach me: anthony.diblasio11@gmail.com
  (215)-534-0423
