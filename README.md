@@ -8,6 +8,6 @@ My name is Anthony DiBlasio!
  
  Check out my portfolio over at https://anthonydiblasio.github.io/
  
- linkedIn : www.linkedin.com/in/anthony-diblasio-499491227
+ linkedIn : https://www.linkedin.com/in/anthony-diblasio
 
 
